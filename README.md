@@ -40,12 +40,12 @@ We removed the **Naive Bayes probability columns** (derived features) to **preve
 
 | Model | Accuracy | F1 Score (Churn) |
 |-------|---------|----------------|
-| Random Forest | 95% | 97% |
-| Decision Tree | 94% | 96% |
-| AdaBoost | 94% | 97% |
-| SVM | 92% | 95% |
-| **XGBoost** | **97%** | **98%** |
-| Logistic Regression | 90% | 94% |
+| Random Forest | 95% | 82% |
+| Decision Tree | 94% | 79% |
+| AdaBoost | 94% | 80% |
+| SVM | 92% | 68% |
+| **XGBoost** | **97%** | **91%** |
+| Logistic Regression | 90% | 65% |
 
 **Best Model:** XGBoost  
 
