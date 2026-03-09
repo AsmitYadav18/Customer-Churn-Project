@@ -54,7 +54,7 @@ We removed the **Naive Bayes probability columns** (derived features) to **preve
 ## 📂 Project Structure
 customer-churn-project/
 │
-├── Project.ipynb
 ├── data/
-│ └── churn_data.csv
+│ └── BankChurners.csv
+├── Project.ipynb
 └── README.md
